@@ -4,8 +4,8 @@
 
 Contains Docker image for users to host the EasyManage Platform "On-Premise" on their own hardware.
 
-* Please see page [EasyManage Pricing](https://easymanage.com/emk/sk_em_pricing.html)
-- For all plans, EasyManage Plan Licensing - Usage and Restrictions!% apply
+* For all plans, EasyManage Plan Licensing - Usage and Restrictions!% apply
+  - Please see [page](https://easymanage.com/emk/sk_em_pricing.html)
 - Applicable [License](https://easymanage.com/ems/EMLicense.txt)
 
 ## Setup

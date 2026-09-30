@@ -22,8 +22,11 @@ Contains Docker image for users to host the EasyManage Platform "On-Premise" on 
 * Onboarding Users
 
 * Admin, Monitoring & Management: Link to `misc\on-prem-admin.md`
-  * Docker Container Backups
-    * Transfer - From 1 Computer to Another
+  * Backup Restore
+    * Docker Container Backups
+    * Docker Container Restore
+    * Transfer Container
+      * From one Computer to another
   * Monitor Agent Server Sessions, close periodically
     * Schedule AI Agents and Monitoring Jobs
 
